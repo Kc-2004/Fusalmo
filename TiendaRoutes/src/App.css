@@ -1,0 +1,30 @@
+
+    nav ul{
+        list-style-type: none;
+    }
+    nav a{
+        text-decoration: none;
+        color: white;
+    }
+    nav ul li{
+        display: inline-block;
+        padding: 10px;
+    }
+li{
+    list-style-type: none; 
+    text-decoration: none;
+    
+}
+  nav a.is-active{
+    font-weight: bold;
+ 
+    pointer-events:none;
+    background-color: rgb(26, 18, 19);
+    color: rgb(252, 252, 252); 
+}
+h1,h2,h3,h4,h5,h6,p{
+    color: white;
+}
+.feature{
+    padding: 2%;
+}
